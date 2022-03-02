@@ -6,7 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CalculatorTest {
 
-    //this is test
     @Test
     public void test() {
         Calculator calc = new Calculator();
